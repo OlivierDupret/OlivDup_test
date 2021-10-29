@@ -1,3 +1,8 @@
 ligne1
 ligne2
+<<<<<<< HEAD
 ligne3
+=======
+ligne4
+>>>>>>> fed37a6edb471293105454c2cfe09c7ffac3314e
+ok
